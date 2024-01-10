@@ -1,6 +1,6 @@
 using System.Text.Json;
 
-class Catalogue
+public class Catalogue
 {
     // -----Listor--------------
 
